@@ -1,0 +1,28 @@
+/* Estilo visual general */
+body {
+    background-color: #1e1e28;
+    color: #ffffff;
+    font-family: 'Helvetica', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.stButton>button {
+    background-color: #04b575;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5em 1em;
+}
+
+.stSidebar {
+    background-color: #20212c;
+}
+
+.stSelectbox>div {
+    background-color: #2c2f40;
+    color: #fff;
+}
+

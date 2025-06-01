@@ -1,0 +1,4 @@
+ID;Cliente;Departamento Afectado;Días Estancado;Complejidad;Mensaje de alerta
+1;Constructora Andina;Diseño Gráfico;4;Alta;Diseño gráfico lleva 4 días sin movimiento
+2;Servicios Clínicos;Producción (Hoja Guía);5;Media;Atraso en hoja guía de producción
+3;Comercial Omega;Remate;6;Baja;Remate sin actividad registrada por 6 días
